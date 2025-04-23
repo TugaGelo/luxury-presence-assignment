@@ -18,7 +18,6 @@ A revamped home page for a real estate website, created as a design and developm
 |------------|---------------|----------------|-------------------|
 | ![Desktop Hero](Images/screenshots/desktop/hero-desk.png) | ![Desktop About](Images/screenshots/desktop/about-desk.png) | ![Desktop Seller](Images/screenshots/desktop/contact-desk.png) | ![Desktop Search 1](Images/screenshots/desktop/search1-desk.png) |
 | Contact & Map | Footer | Services |
-|-------------|--------|----------|
 | ![Desktop Contact](Images/screenshots/desktop/contact-desk.png) | ![Desktop Footer](Images/screenshots/desktop/footer-desk.png) | ![Desktop Services](Images/screenshots/desktop/services-desk.png) |
 
 ### Mobile View
@@ -26,7 +25,6 @@ A revamped home page for a real estate website, created as a design and developm
 |--------------|---------------|-----------------|-------------------|
 | ![Mobile Hero](Images/screenshots/mobile/hero-mobile.png) | ![Mobile About](Images/screenshots/mobile/about-mobile.png) | ![Mobile Contact](Images/screenshots/mobile/contact-mobile.png) | ![Mobile Services](Images/screenshots/mobile/services-mobile.png) |
 | Navigation | Logo |
-|------------|------|
 | ![Mobile Nav](Images/screenshots/mobile/nav-mobile.png) | ![Mobile Logo](Images/screenshots/mobile/logo-mobile.png) |
 
 ## Tech Stack
